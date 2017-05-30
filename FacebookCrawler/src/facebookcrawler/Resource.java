@@ -13,6 +13,6 @@ import java.io.File;
  * @author Tamrat Assefa
  */
 public class Resource {    
-    public String username = "mafyoung94@gmail.com";
-    public String password = "0920731565maf";
+    public String username = "";
+    public String password = "";
 }
